@@ -1,0 +1,2 @@
+Ta que la carpeta no está vacía.
+Teniendo en cuenta que para Github una carpeta vacía no significa un cambio, al la carpeta ya no estar vacía si se puede hacer un commit
