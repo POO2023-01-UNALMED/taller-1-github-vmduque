@@ -1,3 +1,6 @@
 Victor Manuel Duque Vasquez
 18 años
 Aprender los conceptos del paradigma de la progrmación orientada a objetos para aplicarlos en el desarrollo de software
+Ya que la carpeta no está vacía.
+Teniendo en cuenta que para Github una carpeta vacía no significa un cambio, al la carpeta ya no estar vacía si se puede hacer un commit
+Se pueden generar conflictos en las difetentes versiones del trabajo
